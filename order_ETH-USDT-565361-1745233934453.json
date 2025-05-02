@@ -1,0 +1,20 @@
+{
+  "status": true,
+  "result": {
+    "orderID": "ETH-USDT-565361-1745233934453",
+    "userId": "67d43efaef16e08ea48cdfd1",
+    "side": "buy",
+    "type": "limit",
+    "subType": "gtc",
+    "price": "1592.551",
+    "averagePrice": "1592.551",
+    "quantity": "0.0001",
+    "cumQuantity": "0.0001",
+    "cumQuoteQuantity": "0.159255",
+    "cumCommission": "0.000319",
+    "symbol": "ETH/USDT",
+    "status": "filled",
+    "created": "2025-04-21T11:12:14.453Z",
+    "updated": "2025-04-21T17:00:11.976Z"
+  }
+}

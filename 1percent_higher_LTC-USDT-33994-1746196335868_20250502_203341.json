@@ -1,0 +1,18 @@
+{
+  "original_order": {
+    "id": "LTC-USDT-33994-1746196335868",
+    "price": "87.199199",
+    "symbol": "LTC/USDT",
+    "side": "buy"
+  },
+  "adjusted_order": {
+    "id": "LTC-USDT-34210-1746196420844",
+    "price": "88.071191",
+    "created_at": "2025-05-02T20:33:41.411233"
+  },
+  "price_increase": {
+    "percentage": "1%",
+    "old_price": 87.199199,
+    "new_price": 88.071191
+  }
+}
